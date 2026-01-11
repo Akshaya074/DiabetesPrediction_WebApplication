@@ -4,11 +4,6 @@ An end-to-end machine learning web application that predicts whether a person is
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-streamlit-app-link
-
----
-
 ## 📌 Features
 - Predicts diabetes using medical input parameters
 - Real-time inference using a trained machine learning model
